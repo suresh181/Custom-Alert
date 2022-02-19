@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Custom Alert</string>
+    <string name="general_toast">General toast</string>
+    <string name="show_general_toast">Show General Toast</string>
+    <string name="show_error_toast">Show Error Toast</string>
+    <string name="show_warning_toast">Show Warning Toast</string>
+    <string name="show_success_toast">Show Success Toast</string>
+    <string name="apply">Apply</string>
+    <string name="success">Success</string>
+    <string name="alertdialog_has_been_success">ALertDialog has been Success</string>
+    <string name="error">Error</string>
+    <string name="alert_dialog_has_a_error_please_check_it">Alert Dialog has a error Please Check It</string>
+
+</resources>
